@@ -779,7 +779,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <br />
 <br />
 
-**Accelerate your professional journey with Expert Training program program program**
+**Accelerate your professional journey with Expert Training program program  **
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
